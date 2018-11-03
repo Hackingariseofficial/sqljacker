@@ -5,7 +5,7 @@ An sql injection tools that work with sqlmap to make it easyer to use . 13 tampe
 
 To install this tool copy paste the following commands 
 
-1. git clone https://github.com/hackingvisionoffical/sqljacker
+1. git clone https://github.com/hackingvisionofficial/sqljacker
 2. cd sqljacker
 3. chmod +x
 4. ./sqljacker
