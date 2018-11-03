@@ -13,8 +13,8 @@ To install this tool copy paste the following commands
 6. ./sqljacker
  then pick what attack u want and a way u gooo 
 
-thanks lad happy u love are scripts dont forget to check out hackingvision.com 
-forum.hackingvision.com
+thanks lad happy u love are scripts dont forget to check out https://hackingvision.com or
+https://forum.hackingvision.com
 and chat us on discord 
 https://discord.gg/mrbnjtu
 
